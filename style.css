@@ -1,0 +1,35 @@
+* {padding: 3px 15px;
+margin: 0px;
+}
+body {background-color: rgb(63, 123, 125); color: white;}
+.ee {
+    justify-content: space-between;
+     display: flex;
+}
+
+h1, p, h2 {
+    text-align: center;
+}
+
+
+
+
+ul {
+padding: 0px 40px;
+display: flex;
+gap: 20px;
+list-style: none;
+align-items: center;
+}
+
+.sss {background-color: rgb(203, 208, 42);
+padding: 10px 20px;
+border-radius: 5px;
+color: white;
+text-decoration: none;
+}
+
+a {
+    color: white;
+    text-align: center;
+}
